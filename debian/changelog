@@ -1,3 +1,9 @@
+baidupcs (0.3.1+git20170908-1) unstable; urgency=medium
+
+  * New upstream snapshot.
+
+ -- Boyuan Yang <073plan@gmail.com>  Sun, 05 Nov 2017 00:21:13 +0800
+
 baidupcs (0.3.1-1) unstable; urgency=low
 
   * Initial release.
