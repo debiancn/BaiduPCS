@@ -1,26 +1,24 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: baidupcs
 Source: https://github.com/GangZhuo/BaiduPCS
 
 Files: *
-Copyright: 2014-2017, Gang Zhuo <gang.zhuo@gmail.com>
+Copyright: 2014-2017 Gang Zhuo <gang.zhuo@gmail.com>
 License: Expat
 
 Files: debian/*
 Copyright: 2017 Boyuan Yang <073plan@gmail.com>
+           2017 Yangfl <mmyangfl@gmail.com>
 License: Expat
 
-Files:     pcs/cJSON.c
-Copyright: 2009 Dave Gamble
-License:   Expat
+Files: pcs/cJSON.c
+       pcs/cJSON.h
+Copyright: 2009 Dave Gamble <davegamble@gmail.com>
+License: Expat
 
-Files:     pcs/cJSON.h
-Copyright: 2009 Dave Gamble
-License:   Expat
-
-Files:     pcs/openssl_*.h
+Files: pcs/openssl_*.h
 Copyright: 1998-2002 The OpenSSL Project.
-License:   OpenSSL
+License: OpenSSL
  Redistribution and use in source and binary forms, with or without
  modification, are permitted provided that the following conditions
  are met:
